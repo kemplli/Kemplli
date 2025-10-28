@@ -1,1 +1,1 @@
-## Indie game developer. Im use Unity.
+## Indie game developer. I use Unity.
