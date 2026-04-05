@@ -1,1 +1,1 @@
-## Indie game developer. I use Unity.
+## Indie unity game developer and Beginner Arduino user
